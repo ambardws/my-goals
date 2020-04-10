@@ -1,0 +1,13 @@
+My Goals
+
+*Menjadi Front End Developer
+  - HTML
+  - CSS
+  - Javascript
+  - Belajar VueJS
+  
+*Menjadi Back End Developer
+  - PHP
+  - MVC
+  - Belajar Laravel
+  - Belajar API
